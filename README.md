@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Pothala</h1>
 
-![logo](Grey Minimalist Corporate Personal Profile LinkedIn Banner.png)
+![logo](https://github.com/Chaitanya-kumar55/Chaitanya-kumar55/blob/main/Grey Minimalist Corporate Personal Profile LinkedIn Banner.png)
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
